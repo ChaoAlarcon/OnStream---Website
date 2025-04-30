@@ -1,4 +1,4 @@
 # OnStream - Website
 ### [Go take a look!](http://chaoalarcon.ct.ws/Sitio%20informativo/) (No smartphone support)
 ## Preview:
-![Portada](Previsualización_Onstream_Website.png)
+![Portada](Previsualización-Onstream-Website.png)
