@@ -1,4 +1,4 @@
 # OnStream - Website
-### [Go take a look!]([http://www.onstream.club/](https://onstreamweb.netlify.app/)) (No smartphone support)
+### [Go take a look!](https://onstreamweb.netlify.app/)
 ## Preview:
 ![Portada](Previsualización.png)
